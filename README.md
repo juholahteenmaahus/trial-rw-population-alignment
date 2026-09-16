@@ -1,2 +1,2 @@
-# Transportability-of-Neoadjuvant-HER2-Positive-Breast-Cancer-Trial-Outcomes-to-Real-World-Practice
-This repository consists of the supplements for the article "Transportability of Neoadjuvant HER2-Positive Breast Cancer Trial Outcomes to Real-World Practice: A Counterfactual Comparison Study" by Juho Lähteenmaa, Pauliina Ilmonen, Peeter Karihtala, Anders Ståhls, Kirsi Santti, Joonas Laaksolilja, Johanna Mattson.
+# Moving Beyond Crude Trial–Real-World Comparisons Through Population Alignment and Decomposition
+This repository consists of the supplements for the article "Moving Beyond Crude Trial–Real-World Comparisons Through Population Alignment and Decomposition"Juho Lähteenmaa, Pauliina Ilmonen, Elli-Noora Hännikäinen, Joonas Laaksolilja, Anders Ståhls, Kirsi Santti, Peeter Karihtala and Johanna Mattson.
